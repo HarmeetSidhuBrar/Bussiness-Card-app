@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card </string>
+    <string name="company_name">Sidhu Advertisement Company</string>
+    <string name="contact_number">+91 9878101254</string>
+    <string name="address">Chandigarh, Punjab, India</string>
+    <string name="office_timing">10am - 5pm</string>
+    <string name="email">sidhuharmeet167@gmail.com</string>
+</resources>
